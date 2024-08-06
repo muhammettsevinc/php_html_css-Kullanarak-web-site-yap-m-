@@ -1,4 +1,4 @@
-php final projesi
-index ana sayfa olarak ayrladım girdiğimizde ana sayfa, hakkımızda ,hizmetler ve iletişim olarak 4 yönledirmem var. ana sayfa kısmının ortasında başvur yap butınu var o butona tıklandıgında bir form karımıza cıkıyor form doldurulduğunda formda ki bilgiler veri tabanına çekiliyor.
-veri tabanı için pnaelgiriş ve panel sayfası var panelgiriş panele girmek için kullanıln log in sayfası. iki kullanıcı girişli. panele girildiğnde üstte giren kişinin kullanııc adı alt kısmıda verilerin alındığı tablo var.ayrıca ayrı bir tane cıkıs butonu var.PANEL girişe yanlış şifre veya kullanıcı adı girildiginde giriş sayfasının ustune sifre veya kullanıcı adı yanlış ibaresi bulunur ve sayfayı yeniler.
+php  projesi
+index ana sayfa olarak ayrladım girdiğimizde ana sayfa, hakkımızda ,hizmetler ve iletişim olarak 4 yönledirmem var. ana sayfa kısmının ortasında başvur yap butonu var o butona tıklandıgında bir form karşımıza cıkıyor form doldurulduğunda formda ki bilgiler veri tabanına çekiliyor.
+veri tabanı için panelgiriş ve panel sayfası var panelgiriş panele girmek için kullanılan log in sayfası. iki kullanıcı girişli. panele girildiğinde üstte girilen kişinin kullanıcı adı alt kısmıda verilerin alındığı tablo var.ayrıca ayrı bir tane cıkıs butonu var.PANEL girişe yanlış şifre veya kullanıcı adı girildiginde giriş sayfasının ustune sifre veya kullanıcı adı yanlış ibaresi bulunur ve sayfayı yeniler.
 saygılarımla.
